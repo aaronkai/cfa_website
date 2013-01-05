@@ -3,12 +3,12 @@ auto:    true
 blah:    Hello
 
 brigade:
-    name: Code for Area
-    city:   City
-    meetup-link: "http://www.meetup.com/cfabrigade/CityLink/"
-    google-group: "https://groups.google.com/a/codeforamerica.org/forum/#!forum/hrva-brigade"
-    github: "https://github.com/brigade-hrva"
-    idea-list: "http://www.meetup.com/cfabrigade/Virginia-Beach-VA/"
+    name: Code for Asheville
+    city:   Asheville
+    meetup-link: "#"
+    google-group: "https://groups.google.com/a/codeforamerica.org/forum/#!forum/open-asheville"
+    github: "https://github.com/openAsheville"
+    idea-list: "#"
 
 content:
     title: Code for City | A Code for America Brigade
