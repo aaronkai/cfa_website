@@ -1,4 +1,4 @@
-Landing template based on the Code for Virginia Beach landing page (http://codeforvirginiabeach.org)
+Landing template for Open Asheville based on the Code for Virginia Beach landing page (http://codeforvirginiabeach.org)
 
 #License
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
