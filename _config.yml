@@ -5,7 +5,7 @@ blah:    Hello
 brigade:
     name: Code for Asheville
     city:   Asheville
-    meetup-link: "#"
+    meetup-link: " http://www.meetup.com/cfabrigade/Asheville/"
     google-group: "https://groups.google.com/a/codeforamerica.org/forum/#!forum/open-asheville"
     github: "https://github.com/openAsheville"
     idea-list: "http://opendatacatalog.ashevillenc.gov/opendata/nominate/?sort=rating_score&dir=desc"
