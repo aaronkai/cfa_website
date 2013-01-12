@@ -13,7 +13,7 @@ brigade:
 content:
     title: Code for Asheville | A Code for America Brigade
     meetup-invite: "A casual <a href='#'>meetup</a>, usually bi-weekly."
-    contact: "Our brigade captains are Scott Barnwell & Dave Michelson (johndoe@example.com or @johndoe)."
+    contact: "Our brigade captains are Scott Barnwell & Dave Michelson (openasheville@codeforamerica.com)."
     banner: ./images/city_building2.jpg
     projects:
       - name: Project 1
