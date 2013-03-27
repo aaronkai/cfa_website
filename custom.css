@@ -43,8 +43,12 @@ padding: 20px 20px;
 .location h2 {
 }
 
-.presented, .infos, .prizes{
-	margin-top: 50px;
+.presented {
+	margin-top: 40px;
+}
+
+.infos, .prizes{
+	margin-top: 80px;
 }
 
 .presented h1 {
