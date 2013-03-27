@@ -19,6 +19,7 @@ body{
 .announce{
 	background: #76A5CC;
 	padding-bottom: 40px;
+	color: #111;
 	
 }
 
@@ -43,11 +44,11 @@ padding: 20px 20px;
 .location h2 {
 }
 
-.presented {
+.presented, .infos {
 	margin-top: 40px;
 }
 
-.infos, .prizes{
+ .prizes{
 	margin-top: 80px;
 }
 
