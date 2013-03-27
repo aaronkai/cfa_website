@@ -21,7 +21,7 @@ padding-top: 20px;
 
 .announce h3 {
 font-size: 200%;
-padding: 20px 0;
+padding: 20px 10px;
 }
 
 .location {
@@ -29,8 +29,8 @@ padding: 20px 0;
 }
 
 .location .inner {
-	display: table-cell;
-   vertical-align: bottom;
+	position: absolute;
+	bottom: 30px;
 }
 
 .location h2 {
