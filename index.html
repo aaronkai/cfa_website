@@ -13,7 +13,7 @@
 
     <!-- Carousel - but not using at the moment
     ================================================== -->
-    <div class="carousel slide">
+    <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
           <img src="{{ site.content.banner }}">
@@ -28,10 +28,13 @@
 			<div class="container">
 				<div class="carousel-caption"
 				<p> play ball </p>
+				<a class="btn btn-large btn-primary" href="#">Sign up today</a>
 				</div>
 			</div>
 		</div>
       </div>
+	   <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
     </div><!-- /.carousel -->
 
 
@@ -85,7 +88,7 @@
   <script>
       !function ($) {
         $(function(){
-\          $('.carousel').carousel()
+\          $('#myCarousel').carousel()
         })
       }(window.jQuery)
     </script>
