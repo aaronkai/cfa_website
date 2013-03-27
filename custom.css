@@ -1,18 +1,23 @@
-    
+/* colors
+	blue: #76A5CC
+	red: #FFB0AD
+	yellow: #FCFFB0
+*/    
 body{
 	padding-top: 40px;
 }
 
 .masthead{
-	margin-top: 30px;
-	}
-
-.masthead h1{
-	font-size: 500%;
+	padding-bottom: 40px;
 }
 
 .row {
 padding-top: 40px;
+}
+
+.announce{
+	background: #76A5CC;
+	
 }
 
 .announce h1{
@@ -25,7 +30,8 @@ padding: 20px 10px;
 }
 
 .location {
-	position: relative:
+	position: relative;
+	background: #FFB0AD;
 }
 
 .location .inner {
