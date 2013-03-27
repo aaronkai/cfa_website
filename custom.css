@@ -29,8 +29,8 @@ padding: 20px 0;
 }
 
 .location .inner {
-	position: absolute;
-	bottom: 0;
+	display: table-cell;
+   vertical-align: bottom;
 }
 
 .location h2 {
