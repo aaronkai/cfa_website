@@ -16,5 +16,16 @@ padding-top: 20px;
 }
 
 .announce h1{
-	font-size: 300%;
+	font-size: 800%;
 }
+
+.announce h3 {
+font-size: 200%;
+padding: 20px;
+}
+
+.location {
+	display: table-cell; 
+	vertical-align: bottom;
+}
+
