@@ -13,10 +13,12 @@ body{
 
 .announce{
 	background: #76A5CC;
+	padding-bottom: 40px;
+	
 }
 
 .announce h1{
-	font-size: 800%;
+	font-size: 200em;
 }
 
 .announce h3 {
