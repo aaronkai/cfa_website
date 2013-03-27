@@ -12,7 +12,7 @@ body{
 }
 
 .row {
-padding-top: 20px;
+padding-top: 40px;
 }
 
 .announce h1{
@@ -36,7 +36,7 @@ padding: 20px 10px;
 }
 
 .presented{
-	
+	margin-top: 50px;
 }
 .navbar .brand {
 	padding-left: 50px;
