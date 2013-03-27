@@ -25,7 +25,17 @@ padding: 20px;
 }
 
 .location {
-	display: table-cell; 
-	vertical-align: bottom;
+	position: relative:
 }
 
+.location .inner {
+	position: absolute;
+	bottom: 0;
+}
+
+.location h2 {
+}
+
+.navbar .brand {
+	padding-left: 50px;
+}
