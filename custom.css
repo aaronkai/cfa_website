@@ -28,7 +28,7 @@ body{
 
 .announce h3 {
 font-size: 200%;
-padding: 20px 10px;
+padding: 20px 20px;
 }
 
 .location {
@@ -45,6 +45,10 @@ padding: 20px 10px;
 
 .presented{
 	margin-top: 50px;
+}
+
+.presented h1 {
+	margin-bottom: 40px;
 }
 .navbar .brand {
 	padding-left: 50px;
