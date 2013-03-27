@@ -10,3 +10,11 @@ body{
 .masthead h1{
 	font-size: 500%;
 }
+
+.row {
+padding-top: 20px;
+}
+
+.announce h1{
+	font-size: 300%;
+}
