@@ -8,7 +8,12 @@ body{
 }
 
 .masthead{
+	margin-top: 40px;
 	padding-bottom: 40px;
+}
+
+.masthead h1, .masthead h2, .masthead h3{
+	padding-left: 20px;
 }
 
 .announce{
@@ -18,7 +23,7 @@ body{
 }
 
 .announce h1{
-	font-size: 200%;
+	font-size: 700%;
 }
 
 .announce h3 {
