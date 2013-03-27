@@ -30,12 +30,15 @@ padding: 20px 10px;
 
 .location .inner {
 	position: absolute;
-	bottom: 30px;
+	bottom: -50px;
 }
 
 .location h2 {
 }
 
+.presented{
+	
+}
 .navbar .brand {
 	padding-left: 50px;
 }
