@@ -1,3 +1,4 @@
+
 Landing template for Open Asheville based on the Code for Virginia Beach landing page (http://codeforvirginiabeach.org)
 
 #License
@@ -13,4 +14,5 @@ Here's the comprehensive list of things you *must* do to customize your site aft
  * Publish to GitHub pages
 
 #More options:
+
 Each element of the page is contained in the '_includes' directory.  You can change individual parts of the landing page if desired or if you're familiar with Jekyll you can make advanced changes.
