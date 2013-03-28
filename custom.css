@@ -11,9 +11,10 @@ body{
 	background-color: #B9F086;
 	background-image: url(./images/wheat.png);
 	background-repeat: no-repeat;
-	background-position: left bottom;
+	background-position: 5% 75%;
 	margin-top: 40px;
 	padding-bottom: 40px;
+	min-height: 400px;
 }
 
 .masthead h1, .masthead h2, .masthead h3{
