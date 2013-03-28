@@ -60,7 +60,11 @@ margin-top: 50px;
 .add-top{
 	margin-top: 80px;
 }
- 
+
+.sponsors h1 {
+	margin-bottom: 40px;
+}
+
 .carousel-caption2{
 	margin-left: 450px;
 }
