@@ -13,29 +13,33 @@ body{
 	background-repeat: no-repeat;
 	background-position: 60px 50px;
 	padding-bottom: 40px;
-	min-height: 450px;
+	min-height: 370px;
+	border-bottom: 1px solid #5E8C46;
+
 }
 
 .masthead h1, .masthead h2, .masthead h3{
 	padding-left: 20px;
 	font-family: 'Montserrat Subrayada', sans-serif;
+	line-height: 1em;
+
 
 }
 
 .announce{
 	padding-bottom: 40px;
 	color: #222;
-	padding-left: 40%;
+	padding-left: 480px;
 	padding-top: 100px;
+	color: #000;
 }
 
 .announce h1{
 	font-size: 700%;
 }
 
-.announce h3 {
-font-size: 200%;
-padding: 20px 20px;
+.announce h2:first-of-type {
+margin-top: 50px;
 }
 
 .presented{
